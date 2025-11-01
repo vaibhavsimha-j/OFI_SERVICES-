@@ -94,6 +94,6 @@ ____
 ### Author
 
 Name: Vaibhav Simhaj
-Role: AI & Data Engineering Intern
-Organization: NexGen Logistics Pvt. Ltd.
+Role: AI Intern
+Organization: OFI Services
 Project: Warehouse Optimization & AI Insights System
