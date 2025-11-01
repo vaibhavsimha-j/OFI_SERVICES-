@@ -30,6 +30,7 @@ ____
 | Folder / File Path                         | Description |
 |--------------------------------------------|-------------|
 | `warehouse_optimizer/`                     | Root project directory |
+| `WOAS-Innovation Brief.pdf`              |Detailed explanation of the project’s concept, innovation, and business value|
 |  `app.py`                               | Main Streamlit application script |
 | `anomaly_detection.py`                 | Contains ML-based anomaly detection logic |
 | `optimizer.py`                         | Handles surplus/deficit analysis and transfer proposal logic |
